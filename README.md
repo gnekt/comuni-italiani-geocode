@@ -22,7 +22,7 @@ MapBox é stato l'unico servizio che restitutiva triangolazioni differenti anche
 ---
 
 ### Nota bene
-I dati vanno presi "as it is", ovvero che:
+I dati vanno presi "as they are", ovvero che:
 1) I dati __Non sono stati validati__.
 2) I dati __Non sono ufficiali__.
 3) Non ho modo di controllare a mano se tutte le geolocalizzazioni sono corrette.
