@@ -1,6 +1,4 @@
-# comuni-italiani-geocode
-
-## Geo-Localizzazione comuni italiani
+# Geo-Localizzazione comuni italiani
 La repository nasce con lo scopo di fornire un csv che contiene la geolocalizzazione di tutti i comuni italiani, in notazione Latitudine e Longitudine.
 
 Il file é [questo](https://github.com/gnekt/comuni-italiani-geocode/blob/main/comuni_geocoded.csv)
