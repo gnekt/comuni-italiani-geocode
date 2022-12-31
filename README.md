@@ -12,7 +12,7 @@ Le chiamate sono state formattate secondo questo formato:
 ```
     https://api.mapbox.com/geocoding/v5/mapbox.places/{comune},{cap},Italia.json?access_token={}
 ```
-Le informazioni usate almeno in prima battuta sembrano essere sufficienti per discriminare correttamente i vari comuni.
+Le informazioni usate, almeno in prima battuta, sembrano essere sufficienti per permettere al loro motore di ricerca di discriminare correttamente i vari comuni.
 
 #### Perché __MapBox__ e non altri servizi?
 MapBox é stato l'unico servizio che restitutiva triangolazioni differenti anche per multi-cap appartenenti allo stesso comune.
